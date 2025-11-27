@@ -1,6 +1,6 @@
-# Rhythm Game Database Schema
+# Osu! Database Schema
 
-This repository contains a database schema for an osu!-style rhythm game, written in dbdiagram.io syntax.
+Database for a rhythm game named osu!
 
 ## Overview
 The schema covers the core data needed for a rhythm game, including:
